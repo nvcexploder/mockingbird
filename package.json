@@ -1,0 +1,12 @@
+{
+    "name": "mockingbird",
+    "description": "Talking http server",
+    "version": "0.0.1",
+    "author": "Ben Acker <benacker@gmail.com>",
+    "dependencies": {
+        "express":"3.0.x"
+    },
+    "devDependencies": {
+    },
+    "engines": { "node": "0.8.x" }
+}
